@@ -4,7 +4,7 @@ Below link is used for spring data examples for pratices
 https://github.com/spring-projects/spring-data-examples
 
 
-#Circuilt Breaker implemention as below
+#Circuitbreaker implemention for springboot microservices steps as below:
 
 1. First, you need to add the Resilience4j Circuit Breaker dependency to your project. You can do this by adding the following dependency to your pom.xml file:
 ```
